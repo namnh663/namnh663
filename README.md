@@ -1,37 +1,9 @@
 ## About Me
 
-👋 Hello! I'm **Nam Nguyen Hoai**, a passionate Senior Software Test Engineer. With 5 years of experience in the software testing field, I've dedicated my career to ensuring the quality and reliability of software products.
+My name is Brian, and I currently live and work in Ho Chi Minh City, Vietnam. With over six years of experience as a Senior Test Engineer, I have honed my skills across the finance, banking, and logistics industries. My career has been marked by significant achievements and a consistent track record of delivering high-quality results on time.
 
-### What I Do
+As a responsible professional, I have been praised for my meticulous attention to detail and ability to complete tasks within deadlines. I excel in writing comprehensive documentation and conducting effective training sessions. My passion lies in tackling challenging tasks, which have provided me with invaluable lessons and professional growth. I have extensive experience in building robust testing processes. I am always looking for ways to incorporate automation into workflows to optimize processing time and efficiency. At Home Credit, I was honored with the DNA Star award for my exceptional contributions.
 
-🔍 I specialize in crafting robust test strategies, developing automated test suites, and leveraging cutting-edge tools and frameworks to streamline the testing process. My goal is to help teams deliver high-quality software with efficiency and precision.
+My experience includes successfully implementing automated testing frameworks for several companies. At Amanotes and Live Payments, I focused on automating API testing. At ITL, I focused on automating end-to-end testing. I am known for my ability to react quickly to changes, such as modifying or improving test cases in response to new requirements. I consistently demonstrate critical thinking and a strong commitment to product quality. Instead of relying solely on written specifications, I proactively gather information from stakeholders to clarify requirements and ensure comprehensive understanding.
 
-### My Skills
-
-🌐 My skill set includes:
-
-- **Test Automation**: I'm proficient in designing and implementing automated test scripts.
-
-- **Programming Languages**: I'm experienced in multiple programming languages, including Python, Java, JavaScript.
-
-- **CI/CD Integration**: I have expertise in integrating test automation into CI/CD pipelines for continuous testing and rapid feedback.
-
-- **Test Frameworks**: I have hands-on experience with various test frameworks such as JUnit, Robot, TestCafe, Playwright, Karate, Nightwatch.js, WebdriverIO.
-
-- **API Testing**: I'm skilled in testing API using tool like Postman.
-
-- **Test Management**: Proficient in test case management tools like Azure and Jira for efficient test planning and reporting.
-
-### My Contributions
-
-🌟 Throughout my career, I've collaborated with cross-functional teams to identify and address quality issues early in the development process. I've also been involved in mentoring junior engineers, sharing my knowledge, and advocating for best testing practices.
-
-### Let's Connect
-
-📫 Feel free to connect with me here on GitHub, where I share my automation projects, testing insights. I'm always excited to network with fellow professionals and share ideas.
-
-### Get in Touch
-
-📧 You can reach me at namnh663@gmail.com or connect with me on LinkedIn https://www.linkedin.com/in/namnh663.
-
-Let's make software testing an integral part of delivering exceptional software products!
+In my roles, I have often led teams of up to 6 members, guiding them through complex projects and ensuring comprehensive test plans with high test case coverage. My efforts have consistently resulted in high-quality software releases with no critical issues in production. I thrive in dynamic environments where effective communication is key. I am excited about the opportunity to bring my expertise, passion for quality assurance, and innovative mindset to new and exciting projects.
